@@ -130,3 +130,4 @@ If you rename your main class, update the mainClass property in the POM:
 ## License
 
 [Add your license information here]=
+[Add your license information here]=
